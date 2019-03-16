@@ -1,0 +1,20 @@
+#Django
+Django==2.1.5
+django-debug-toolbar==1.11
+#most required for initilized
+django-environ==0.4.5
+django-extensions==2.1.5
+entrypoints==0.3
+mccabe==0.6.1
+pkg-resources==0.0.0
+#DATABASE
+psycopg2==2.7.4
+psycopg2-binary==2.7.7
+pycodestyle==2.5.0
+#code Formatter
+pyflakes==2.1.0
+flake8==3.7.4
+pytz==2018.9
+six==1.12.0
+sqlparse==0.2.4
+django[argon2]
