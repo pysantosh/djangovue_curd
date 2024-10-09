@@ -1,4 +1,4 @@
-Django==3.2.25
+Django==4.2.16
 django-debug-toolbar==1.11.1
 pkg-resources==0.0.0
 python-decouple==3.1
